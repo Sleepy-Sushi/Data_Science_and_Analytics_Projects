@@ -1,1 +1,1 @@
-My git repository for CODSOFT Batch May to June
+A small Git Repository showcasing my skills in making Python ML Projects using Supervised and Unsupervised Algorithms
